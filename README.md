@@ -15,11 +15,11 @@ Building practical software, solving problems, and learning something new every 
 🎓 **B.Tech Computer Science Engineering (2023–2027)**  
 🏫 **DIT University, Dehradun**
 
-I'm passionate about building software that solves real-world problems. I enjoy backend development, exploring full-stack technologies, and continuously improving my problem-solving skills.
+I'm passionate about building software that solves real-world problems. I enjoy backend development, exploring full-stack technologies, and continuously improving my development skills.
 
 - 💻 Interested in Software Development & Backend Engineering
 - 🌱 Currently learning Full Stack Development
-- 🚀 Building practical projects to strengthen my development skills
+- 🚀 Building practical software projects
 - 🎯 Seeking Software Development Engineer opportunities
 - 📍 Dehradun, India
 
@@ -57,7 +57,7 @@ I'm passionate about building software that solves real-world problems. I enjoy 
 
 ### 🚗 Smart Parking Management System
 
-A parking management platform that allows users to reserve parking spaces while helping administrators efficiently manage parking slots and bookings.
+A parking management platform that enables users to reserve parking spaces while allowing administrators to manage parking slots, bookings, and availability efficiently.
 
 **Tech Used**
 
@@ -71,7 +71,7 @@ https://github.com/Arpit09-sys/Smart-Parking-Management-System
 
 ### 🎥 Video Processing Project
 
-A Java-based project demonstrating video processing techniques and media handling using core Java concepts.
+A Java-based application demonstrating video processing techniques and efficient media handling.
 
 **Tech Used**
 
@@ -85,7 +85,7 @@ https://github.com/Arpit09-sys/Video-Processing-Project
 
 ### 🌐 Portfolio Website
 
-A responsive portfolio website showcasing my skills, projects, and journey as a software developer.
+A responsive portfolio website showcasing my projects, skills, and journey as a software developer.
 
 **Tech Used**
 
@@ -97,23 +97,13 @@ https://github.com/Arpit09-sys/PortfolioWebsite
 
 ---
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit09-sys&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🎯 Currently Focused On
 
-- 📚 Software Development
+- 📚 Strengthening Data Structures & Algorithms
 - ⚙️ Backend Development
 - 🌐 Full Stack Development
-- 🏗 Building scalable applications
-- 💼 Preparing for SDE Placements
+- 🏗 Building scalable software projects
+- 💼 Preparing for Software Development Engineer placements
 
 ---
 
@@ -127,3 +117,4 @@ arpitsharma.asuc@gmail.com
 
 https://linkedin.com/in/arpit-sharma-9a8586289
 
+---
