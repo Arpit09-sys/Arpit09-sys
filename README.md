@@ -1,172 +1,150 @@
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
 
 <h3 align="center">
-Aspiring Software Development Engineer • Java Developer • Problem Solver
+Aspiring Software Development Engineer • Java Developer • Backend Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Software+Development+Engineer;Full+Stack+Learner;LeetCode+Enthusiast" />
+Building practical software, solving problems, and learning something new every day.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Final Year **B.Tech Computer Science Engineering** Student (2023–2027)
-
+🎓 **B.Tech Computer Science Engineering (2023–2027)**  
 🏫 **DIT University, Dehradun**
 
-💻 Passionate about Software Development, Backend Development, and building real-world applications.
+I'm passionate about building software that solves real-world problems. I enjoy backend development, exploring full-stack technologies, and continuously improving my problem-solving skills.
 
-🌱 Currently learning **Full Stack Development** while strengthening my **Data Structures & Algorithms** skills.
-
-🎯 Looking for **Software Development Engineer (SDE)** opportunities.
-
----
-
-# 🚀 Projects
-
-## 🚗 Smart Parking Management System
-
-A full-stack parking management system that enables users to reserve parking spaces while allowing administrators to efficiently manage slots, bookings, and parking availability.
-
-**Tech Stack**
-
-`Node.js` `MySQL` `HTML` `CSS` `JavaScript`
-
-🔗 Repository
-
-https://github.com/Arpit09-sys/Smart-Parking-Management-System
+- 💻 Interested in Software Development & Backend Engineering
+- 🌱 Currently learning Full Stack Development
+- 🚀 Building practical projects to strengthen my development skills
+- 🎯 Seeking Software Development Engineer opportunities
+- 📍 Dehradun, India
 
 ---
 
-## 🎥 Video Processing Project
-
-A Java-based application focused on efficient video processing and media handling. The project demonstrates Java programming concepts through practical video manipulation.
-
-**Tech Stack**
-
-`Java`
-
-🔗 Repository
-
-https://github.com/Arpit09-sys/Video-Processing-Project
-
----
-
-## 🌐 Portfolio Website
-
-A responsive portfolio website showcasing my projects, skills, and achievements with a modern user interface.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-🔗 Repository
-
-https://github.com/Arpit09-sys/PortfolioWebsite
-
----
-
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,js,mysql" />
+<img src="https://skillicons.dev/icons?i=java,js,c,mysql"/>
 </p>
 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,nodejs"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
 </p>
 
 ---
 
-# 📈 Currently Working On
+# 🚀 Featured Projects
 
-- 🚀 Solving LeetCode problems daily
-- 🌱 Learning Full Stack Development
-- 💻 Building real-world software projects
-- 🎯 Preparing for Software Development Engineer placements
+### 🚗 Smart Parking Management System
+
+A parking management platform that allows users to reserve parking spaces while helping administrators efficiently manage parking slots and bookings.
+
+**Tech Used**
+
+`Node.js` • `MySQL` • `HTML` • `CSS` • `JavaScript`
+
+🔗 **Repository**
+
+https://github.com/Arpit09-sys/Smart-Parking-Management-System
 
 ---
 
-# 📊 GitHub Statistics
+### 🎥 Video Processing Project
+
+A Java-based project demonstrating video processing techniques and media handling using core Java concepts.
+
+**Tech Used**
+
+`Java`
+
+🔗 **Repository**
+
+https://github.com/Arpit09-sys/Video-Processing-Project
+
+---
+
+### 🌐 Portfolio Website
+
+A responsive portfolio website showcasing my skills, projects, and journey as a software developer.
+
+**Tech Used**
+
+`HTML` • `CSS` • `JavaScript`
+
+🔗 **Repository**
+
+https://github.com/Arpit09-sys/PortfolioWebsite
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arpit09-sys&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arpit09-sys&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit09-sys&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit09-sys&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit09-sys&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit09-sys&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🎯 Currently Focused On
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit09-sys&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arpit09-sys&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
+- 📚 Software Development
+- ⚙️ Backend Development
+- 🌐 Full Stack Development
+- 🏗 Building scalable applications
+- 💼 Preparing for SDE Placements
 
 ---
 
-# 🏆 LeetCode
+# 📬 Connect With Me
 
-I actively solve Data Structures & Algorithms problems to improve my problem-solving skills.
+📧 **Email**
 
-🔗 **Profile**
+arpitsharma.asuc@gmail.com
 
-https://leetcode.com/u/arpitsharmaa09/
+💼 **LinkedIn**
 
----
+https://linkedin.com/in/arpit-sharma-9a8586289
 
-# 📫 Let's Connect
+🐙 **GitHub**
 
-<p>
-
-<a href="https://linkedin.com/in/arpit-sharma-9a8586289">LinkedIn</a> •
-<a href="https://github.com/Arpit09-sys">GitHub</a> •
-<a href="mailto:arpitsharma.asuc@gmail.com">Email</a>
-
-</p>
+https://github.com/Arpit09-sys
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<i>"Code. Learn. Build. Repeat."</i>
+
+⭐ Thanks for visiting my profile!
 
 </p>
