@@ -1,69 +1,38 @@
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
 
 <h3 align="center">
-Aspiring Software Development Engineer | Java Developer | Problem Solver
+Aspiring Software Development Engineer • Java Developer • Problem Solver
 </h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Software+Development+Engineer;Full+Stack+Learner;LeetCode+Enthusiast" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering (2023–2027)  
-🏫 DIT University, Dehradun  
-💻 Passionate about Software Development, Backend Development, and Data Structures & Algorithms  
-🌱 Currently learning Full Stack Development and solving LeetCode problems daily  
-🎯 Goal: Become a Software Development Engineer
+🎓 Final Year **B.Tech Computer Science Engineering** Student (2023–2027)
+
+🏫 **DIT University, Dehradun**
+
+💻 Passionate about Software Development, Backend Development, and building real-world applications.
+
+🌱 Currently learning **Full Stack Development** while strengthening my **Data Structures & Algorithms** skills.
+
+🎯 Looking for **Software Development Engineer (SDE)** opportunities.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
----
-
-### Web Development
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
-
----
-
-# 📂 Projects
+# 🚀 Projects
 
 ## 🚗 Smart Parking Management System
 
-A full-stack parking management application that allows users to reserve parking spaces and helps administrators manage parking efficiently.
+A full-stack parking management system that enables users to reserve parking spaces while allowing administrators to efficiently manage slots, bookings, and parking availability.
 
 **Tech Stack**
 
-- Node.js
-- Express.js
-- MySQL
-- HTML
-- CSS
-- JavaScript
+`Node.js` `MySQL` `HTML` `CSS` `JavaScript`
 
 🔗 Repository
 
@@ -73,12 +42,11 @@ https://github.com/Arpit09-sys/Smart-Parking-Management-System
 
 ## 🎥 Video Processing Project
 
-A Java-based application that performs video processing tasks with an emphasis on efficient media handling and processing techniques.
+A Java-based application focused on efficient video processing and media handling. The project demonstrates Java programming concepts through practical video manipulation.
 
 **Tech Stack**
 
-- Java
-- Video Processing Libraries
+`Java`
 
 🔗 Repository
 
@@ -88,13 +56,11 @@ https://github.com/Arpit09-sys/Video-Processing-Project
 
 ## 🌐 Portfolio Website
 
-A responsive personal portfolio showcasing projects, technical skills, and contact information.
+A responsive portfolio website showcasing my projects, skills, and achievements with a modern user interface.
 
 **Tech Stack**
 
-- HTML
-- CSS
-- JavaScript
+`HTML` `CSS` `JavaScript`
 
 🔗 Repository
 
@@ -102,36 +68,105 @@ https://github.com/Arpit09-sys/PortfolioWebsite
 
 ---
 
-# 📈 GitHub Stats
+# 💻 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=Arpit09-sys&show_icons=true&theme=tokyonight)
+### Languages
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arpit09-sys&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,js,mysql" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit09-sys&layout=compact&theme=tokyonight)
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
+
+---
+
+# 📈 Currently Working On
+
+- 🚀 Solving LeetCode problems daily
+- 🌱 Learning Full Stack Development
+- 💻 Building real-world software projects
+- 🎯 Preparing for Software Development Engineer placements
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arpit09-sys&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit09-sys&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit09-sys&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit09-sys&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Arpit09-sys&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
 
 ---
 
 # 🏆 LeetCode
 
-Currently solving Data Structures & Algorithms daily.
+I actively solve Data Structures & Algorithms problems to improve my problem-solving skills.
+
+🔗 **Profile**
 
 https://leetcode.com/u/arpitsharmaa09/
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
-📧 arpitsharma.asuc@gmail.com
+<p>
 
-💼 LinkedIn
+<a href="https://linkedin.com/in/arpit-sharma-9a8586289">LinkedIn</a> •
+<a href="https://github.com/Arpit09-sys">GitHub</a> •
+<a href="mailto:arpitsharma.asuc@gmail.com">Email</a>
 
-https://linkedin.com/in/arpit-sharma-9a8586289
-
-🐙 GitHub
-
-https://github.com/Arpit09-sys
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</p>
