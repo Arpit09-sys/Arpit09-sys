@@ -97,14 +97,6 @@ https://github.com/Arpit09-sys/PortfolioWebsite
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arpit09-sys&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit09-sys&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
@@ -135,16 +127,3 @@ arpitsharma.asuc@gmail.com
 
 https://linkedin.com/in/arpit-sharma-9a8586289
 
-🐙 **GitHub**
-
-https://github.com/Arpit09-sys
-
----
-
-<p align="center">
-
-<i>"Code. Learn. Build. Repeat."</i>
-
-⭐ Thanks for visiting my profile!
-
-</p>
