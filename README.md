@@ -51,7 +51,6 @@ I'm passionate about building software that solves real-world problems. I enjoy 
 - GitHub
 - VS Code
 - Docker
-- Postman
 - Render
 - Vercel
 
