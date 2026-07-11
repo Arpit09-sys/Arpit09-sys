@@ -69,7 +69,7 @@ A full-stack fitness tracking application that allows users to monitor workouts,
 https://github.com/Arpit09-sys/Fitness-Tracker
 
 ### Live Demo
-https://fittrack-app-m3u6.onrender.com/dashboard.html
+https://fittrack-app-m3u6.onrender.com/index.html
 
 ---
 
@@ -84,7 +84,7 @@ A placement management system designed for students and administrators to manage
 https://github.com/Arpit09-sys/Campus-Placement-Portal
 
 ### Live Demo
-https://campus-placement-portal-o26i.onrender.com/pages/admin-dashboard.html
+https://campus-placement-portal-o26i.onrender.com/index.html
 
 ---
 
