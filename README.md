@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
 
 <h3 align="center">
-Aspiring Software Development Engineer • Java Developer • Backend Enthusiast
+Aspiring Software Development Engineer • Java Developer • Full Stack Developer
 </h3>
 
 <p align="center">
@@ -10,17 +10,17 @@ Building practical software, solving problems, and learning something new every 
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 **B.Tech Computer Science Engineering (2023–2027)**  
 🏫 **DIT University, Dehradun**
 
-I'm passionate about building software that solves real-world problems. I enjoy backend development, exploring full-stack technologies, and continuously improving my development skills.
+I'm passionate about building software that solves real-world problems. I enjoy full-stack development, backend engineering, and continuously improving my problem-solving and software development skills.
 
 - 💻 Interested in Software Development & Backend Engineering
-- 🌱 Currently learning Full Stack Development
+- 🌱 Currently learning Advanced Full Stack Development
 - 🚀 Building practical software projects
-- 🎯 Seeking Software Development Engineer opportunities
+- 🎯 Preparing for Software Development Engineer (SDE) roles
 - 📍 Dehradun, India
 
 ---
@@ -28,82 +28,89 @@ I'm passionate about building software that solves real-world problems. I enjoy 
 # 🛠 Tech Stack
 
 ### Languages
+- Java
+- JavaScript
+- C
+- SQL
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,c,mysql"/>
-</p>
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
 
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,nodejs"/>
-</p>
+### Backend
+- Node.js
+- Express.js
 
 ### Database
+- MongoDB
+- MySQL
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
-</p>
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Docker
+- Postman
+- Render
+- Vercel
 
 ---
 
 # 🚀 Featured Projects
 
-### 🚗 Smart Parking Management System
+## 🏋️ FitTrack – Fitness Tracker
 
-A parking management platform that enables users to reserve parking spaces while allowing administrators to manage parking slots, bookings, and availability efficiently.
+A full-stack fitness tracking application that allows users to monitor workouts, BMI, calorie intake, body measurements, progress, and personal fitness goals through an intuitive dashboard.
 
-**Tech Used**
+### Tech Used
+`HTML` • `CSS` • `JavaScript` • `Node.js` • `Express.js` • `MongoDB`
 
-`Node.js` • `MySQL` • `HTML` • `CSS` • `JavaScript`
+### Repository
+https://github.com/Arpit09-sys/Fitness-Tracker
 
-🔗 **Repository**
-
-https://github.com/Arpit09-sys/Smart-Parking-Management-System
-
----
-
-### 🎥 Video Processing Project
-
-A Java-based application demonstrating video processing techniques and efficient media handling.
-
-**Tech Used**
-
-`Java`
-
-🔗 **Repository**
-
-https://github.com/Arpit09-sys/Video-Processing-Project
+### Live Demo
+https://fittrack-app-m3u6.onrender.com/dashboard.html
 
 ---
 
-### 🌐 Portfolio Website
+## 🎓 Campus Placement Portal
 
-A responsive portfolio website showcasing my projects, skills, and journey as a software developer.
+A placement management system designed for students and administrators to manage placement drives, company registrations, job postings, student applications, and recruitment workflows.
 
-**Tech Used**
+### Tech Used
+`HTML` • `CSS` • `JavaScript` • `Node.js` • `Express.js` • `MongoDB`
 
+### Repository
+https://github.com/Arpit09-sys/Campus-Placement-Portal
+
+### Live Demo
+https://campus-placement-portal-o26i.onrender.com/pages/admin-dashboard.html
+
+---
+
+## 🌐 Personal Portfolio Website
+
+A responsive portfolio website showcasing my projects, technical skills, education, and software development journey.
+
+### Tech Used
 `HTML` • `CSS` • `JavaScript`
 
-🔗 **Repository**
-
+### Repository
 https://github.com/Arpit09-sys/PortfolioWebsite
+
+### Live Demo
+https://arpit-portfolio-website-hazel.vercel.app/
 
 ---
 
 # 🎯 Currently Focused On
 
-- 📚 Strengthening Data Structures & Algorithms
+- 📚 Data Structures & Algorithms
 - ⚙️ Backend Development
 - 🌐 Full Stack Development
-- 🏗 Building scalable software projects
-- 💼 Preparing for Software Development Engineer placements
+- 🚀 Building Real-World Projects
+- 💼 Software Development Engineer (SDE) Placements
 
 ---
 
