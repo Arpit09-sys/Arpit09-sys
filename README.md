@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
 
 <h3 align="center">
-Aspiring Software Development Engineer • Java Developer • Full Stack Developer
+B.Tech CSE Student • Software Development Enthusiast
 </h3>
 
 <p align="center">
-Building practical software, solving problems, and learning something new every day.
+Learning, building, and improving my programming skills every day.
 </p>
 
 ---
@@ -15,12 +15,13 @@ Building practical software, solving problems, and learning something new every 
 🎓 **B.Tech Computer Science Engineering (2023–2027)**  
 🏫 **DIT University, Dehradun**
 
-I'm passionate about building software that solves real-world problems. I enjoy full-stack development, backend engineering, and continuously improving my problem-solving and software development skills.
+I'm a Computer Science student interested in software development and backend technologies. I'm currently focused on strengthening my programming fundamentals, learning modern development technologies, and improving my problem-solving skills.
 
-- 💻 Interested in Software Development & Backend Engineering
-- 🌱 Currently learning Advanced Full Stack Development
-- 🚀 Building practical software projects
-- 🎯 Preparing for Software Development Engineer (SDE) roles
+- 💻 Interested in Software Development
+- 🌱 Currently learning and improving my development skills
+- 📚 Practicing Data Structures & Algorithms
+- ⚙️ Exploring Backend Development with Spring Boot
+- 🎯 Preparing for Software Development roles
 - 📍 Dehradun, India
 
 ---
@@ -28,9 +29,7 @@ I'm passionate about building software that solves real-world problems. I enjoy 
 # 🛠 Tech Stack
 
 ### Languages
-- Java
 - JavaScript
-- C
 - SQL
 
 ### Frontend
@@ -39,88 +38,32 @@ I'm passionate about building software that solves real-world problems. I enjoy 
 - JavaScript
 
 ### Backend
-- Node.js
-- Express.js
+- Spring Boot
 
 ### Database
 - MongoDB
-- MySQL
+- SQL
 
-### Tools & Platforms
-- Git
+### Tools
 - GitHub
 - VS Code
-- Docker
-- Render
-- Vercel
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏋️ FitTrack – Fitness Tracker
-
-A full-stack fitness tracking application that allows users to monitor workouts, BMI, calorie intake, body measurements, progress, and personal fitness goals through an intuitive dashboard.
-
-### Tech Used
-`HTML` • `CSS` • `JavaScript` • `Node.js` • `Express.js` • `MongoDB`
-
-### Repository
-https://github.com/Arpit09-sys/Fitness-Tracker
-
-### Live Demo
-https://fittrack-app-m3u6.onrender.com/index.html
-
----
-
-## 🎓 Campus Placement Portal
-
-A placement management system designed for students and administrators to manage placement drives, company registrations, job postings, student applications, and recruitment workflows.
-
-### Tech Used
-`HTML` • `CSS` • `JavaScript` • `Node.js` • `Express.js` • `MongoDB`
-
-### Repository
-https://github.com/Arpit09-sys/Campus-Placement-Portal
-
-### Live Demo
-https://campus-placement-portal-o26i.onrender.com/index.html
-
----
-
-## 🌐 Personal Portfolio Website
-
-A responsive portfolio website showcasing my projects, technical skills, education, and software development journey.
-
-### Tech Used
-`HTML` • `CSS` • `JavaScript`
-
-### Repository
-https://github.com/Arpit09-sys/PortfolioWebsite
-
-### Live Demo
-https://arpit-portfolio-website-hazel.vercel.app/
-
----
-
-# 🎯 Currently Focused On
+# 🎯 Currently Learning
 
 - 📚 Data Structures & Algorithms
-- ⚙️ Backend Development
-- 🌐 Full Stack Development
-- 🚀 Building Real-World Projects
-- 💼 Software Development Engineer (SDE) Placements
+- ☕ Java & Spring Boot
+- 🌐 Web Development
+- 🗄️ Database Management
+- 💡 Software Development Fundamentals
 
 ---
 
 # 📬 Connect With Me
 
-📧 **Email**
-
+📧 **Email**  
 arpitsharma.asuc@gmail.com
 
-💼 **LinkedIn**
-
+💼 **LinkedIn**  
 https://linkedin.com/in/arpit-sharma-9a8586289
-
----
