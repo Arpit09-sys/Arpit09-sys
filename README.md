@@ -29,6 +29,7 @@ I'm a Computer Science student interested in software development and backend te
 # 🛠 Tech Stack
 
 ### Languages
+- java
 - JavaScript
 - SQL
 
